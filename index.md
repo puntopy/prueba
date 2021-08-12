@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos al curso de Python!!
 
 You can use the [editor on GitHub](https://github.com/puntopy/prueba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
