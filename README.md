@@ -34,6 +34,11 @@ if (isAwesome){
 def funcion():
     pass
 ```
+
+```bash
+ls /home/user
+```
+
 GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
 
 But I have to admit, tasks lists are my favorite:
