@@ -25,6 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## un poco de código
+```python
+def funcion(a,b):
+  return a+b
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
